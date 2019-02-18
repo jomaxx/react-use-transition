@@ -8,6 +8,11 @@
   "files": [
     "index.js"
   ],
+  "keywords": [
+    "react",
+    "hooks",
+    "transitions"
+  ],
   "scripts": {
     "test": "jest",
     "preblushOnly": "test --ci"
