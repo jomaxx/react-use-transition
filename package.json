@@ -25,5 +25,6 @@
   },
   "peerDependencies": {
     "react": "^16.8.2"
-  }
+  },
+  "repository": "git@github.com:jomaxx/react-use-transition.git"
 }
